@@ -61,7 +61,7 @@ It builds a soft Gaussian blur model and then uses Wiener deconvolution to undo 
 
 
 ## Nerd Stuff
-im siper bored today in clg. being in 3rd year sucks and today their is  some event in my clg and im sittig in library making this (i hate my chud life) but thats life wassup gang no cap fr. found this while solving a cf question and thought its really cool so here goes nothing!
+im super bored today in clg. being in 3rd year sucks and there is some event in my clg today fresher prolly and im sitting in library making this (i hate my chud life) but that's life wassup gang no cap fr. found this while solving a cf question and thought its really cool so here goes nothing!
 
 <br>
 
