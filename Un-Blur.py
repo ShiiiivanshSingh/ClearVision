@@ -25,7 +25,7 @@ def deblur_image(path, kernel_size, sigma):
     blurred = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
     
     if blurred is None:
-        print("Image not found")
+        print("Image not found.")
         return
     
     kernel = gaussian_kernel(kernel_size, sigma)
